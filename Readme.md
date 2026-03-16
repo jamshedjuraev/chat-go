@@ -49,7 +49,7 @@ The project follows a client-server architecture using gRPC for communication:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/chat-go.git
+git clone https://github.com/jamshedjuraev/chat-go.git
 cd chat-go
 ```
 
